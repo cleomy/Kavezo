@@ -1,0 +1,13 @@
+.card-body{
+    background-color:#fbefdb;
+    
+}
+/*  <span class="border-0"></span>   */
+/* <span aria-hidden="true">&times;</span> */
+.card {
+        border: 0;
+    }
+img{
+  
+        border: 1px solid #1f5b25;
+}   
